@@ -1,0 +1,20 @@
+Uri: https://alexzaharov.ru/
+File Name: c:\Downloaded Web Sites\alexzaharov.ru\index.htm
+Content Type: text/html
+
+Uri: https://alexzaharov.ru/css/main.css?v=2
+File Name: c:\Downloaded Web Sites\alexzaharov.ru\css\main.css
+Content Type: text/css
+
+Uri: https://alexzaharov.ru/?from=redirect
+File Name: c:\Downloaded Web Sites\alexzaharov.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://alexzaharov.ru/usercontent/5c9a8461e4b026207c4dd766_1553630531645.jpg
+File Name: c:\Downloaded Web Sites\alexzaharov.ru\usercontent\5c9a8461e4b026207c4dd766_1553630531645.jpg
+Content Type: image/jpeg
+
+Uri: https://alexzaharov.ru/js/dist/main.js?v=2
+File Name: c:\Downloaded Web Sites\alexzaharov.ru\js\dist\main.js
+Content Type: application/javascript
+
